@@ -3,7 +3,7 @@
 
 **1.0.0:**
 ```
-> TYPE "HELP IN" MENU
+> TYPE "HELP" IN MENU
 
 > DOS
 > STEALER
