@@ -1,7 +1,7 @@
 /*
 *   AUTHOR | qualzed
 *   VERSION | 1.0.0
-*   GITHUB | NONE
+*   GITHUB | github.com/qqqllllzzzz
 */
 
 #include <iostream>
