@@ -36,6 +36,7 @@ int main() {
         }
 
         std::cout << readBuffer << std::endl;
+        system("pause");
 
     } else {
         std::cerr << red << "[!] ERROR" << RESET_COLOR << std::endl;

