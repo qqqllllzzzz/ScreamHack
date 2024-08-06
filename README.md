@@ -7,8 +7,10 @@
 <h3 align="center">HACK THE WORLD! 🚀</h3>
 <h2 align="center">Now there is a graphical interface! 💻</h2>
 <h3 align="center">Most of it is written in C++. (GCC COMPILER)</h3>
-<h3 align="center">WEBPAGE - https://screamhack-software.vkweb.su/#home</h3>
+<h3 align="center">WEBPAGE - https://screamhack-software.vkweb.su/#home (DONT WORK) </h3>
+<h1 align="center"> --- </h1>
+<h2 align="center">[?] How does Stealer work? <br> Stealer works through Telegram using Python</h2>
 <h1 align="center"> --- </h1>
 <h4 align="center">🌵 TO-DO LIST</h4>
 
-<h6 align="center">🤡 ~ NORMAL COMPILER<br>⌨ ~ NAVIGATION USING ARROWS<br>💻 ~ PARSER</h6>
+<h6 align="center"><br>💻 ~ PARSER</h6>
