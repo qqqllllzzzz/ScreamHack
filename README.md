@@ -1,5 +1,5 @@
 ![Scream_series_logo svg](https://github.com/qqqllllzzzz/ScreamHack/assets/125376893/91665d58-24e1-4433-8a8f-80652842d09e)
-<h1 align="center">![image](https://github.com/user-attachments/assets/4f148952-57a4-4890-af4a-e0eb9f5a42d0)</h1>
+![image](https://github.com/user-attachments/assets/4f148952-57a4-4890-af4a-e0eb9f5a42d0)
 
 <h1 align="center">THIS IS <a href="https://github.com/qqqllllzzzz/ScreamHack/" target="_blank">SCREAMHACK</a> - 1.0.2.</h1> 
 <h3 align="center">HACK THE WORLD! 🚀</h3>
