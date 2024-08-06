@@ -13,4 +13,4 @@
 <h1 align="center"> --- </h1>
 <h4 align="center">🌵 TO-DO LIST</h4>
 
-<h6 align="center"><br>💻 ~ PARSER</h6>
+<h6 align="center"><br>💻 ~ PARSER <br> Development of your own plugins and their implementation in code</h6>
